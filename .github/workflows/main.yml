@@ -1,3 +1,8 @@
+name: iOS Unsigned IPA Build
+
+on: workflow_dispatch
+
+
 
 jobs:
 
